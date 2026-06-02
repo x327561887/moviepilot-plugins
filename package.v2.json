@@ -1,0 +1,19 @@
+{
+  "name": "MoviePilot-Plugins-V2",
+  "version": "1.0.0",
+  "description": "MoviePilot V2 自定义插件仓库",
+  "author": "x327561887",
+  "license": "MIT",
+  "plugins": [
+    {
+      "id": "HostsUrl",
+      "name": "远程Hosts",
+      "version": "1.0.0",
+      "description": "定时从远程URL拉取hosts并写入系统，支持手动更新",
+      "icon": "https://raw.githubusercontent.com/x327561887/moviepilot-plugins/main/plugins/v2/HostsUrl/hosts.png",
+      "path": "plugins/v2/HostsUrl",
+      "v2": true,
+      "level": 1
+    }
+  ]
+}
