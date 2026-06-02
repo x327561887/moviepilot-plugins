@@ -1,0 +1,6 @@
+# 远程Hosts 插件依赖
+# MoviePilot 主体已自带以下依赖,通常无需额外安装;这里仅做声明以便插件独立分发。
+requests>=2.28
+urllib3>=1.26
+python-hosts>=1.0.5
+APScheduler>=3.10
